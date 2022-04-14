@@ -1,0 +1,51 @@
+export const coordinates = [
+  {
+    fromLatitute: 28.6139,
+    fromLongitude: 77.209,
+    toLatitude: -25.2802,
+    toLongitude: 140.131,
+    locName: "India",
+  },
+  {
+    fromLatitute: -25.2802,
+    fromLongitude: 140.131,
+    toLatitude: 35.6762,
+    toLongitude: 139.6503,
+    locName: "Australia",
+  },
+  {
+    fromLatitute: 35.6762,
+    fromLongitude: 138.6503,
+    toLatitude: 51.5072,
+    toLongitude: 0.1276,
+    locName: "Tokyo",
+  },
+  {
+    fromLatitute: 51.5072,
+    fromLongitude: 0.1276,
+    toLatitude: 50.006,
+    toLongitude: -85.7128,
+    locName: "England",
+  },
+  {
+    fromLatitute: 50.006,
+    fromLongitude: -85.7128,
+    toLatitude: 26.8206,
+    toLongitude: 30.8025,
+    locName: "Canada",
+  },
+  {
+    fromLatitute: 26.8206,
+    fromLongitude: 30.8025,
+    toLatitude: -29.5595,
+    toLongitude: 23.9375,
+    locName: "Egypt",
+  },
+  {
+    fromLatitute: -29.5595,
+    fromLongitude: 23.9375,
+    toLatitude: 28.6139,
+    toLongitude: 77.209,
+    locName: "South Africa",
+  },
+];
